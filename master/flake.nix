@@ -10,7 +10,7 @@
   inputs.src-io-gles-master.flake = false;
   inputs.src-io-gles-master.ref   = "refs/heads/master";
   inputs.src-io-gles-master.owner = "nimious";
-  inputs.src-io-gles-master.repo  = "io-gles.git";
+  inputs.src-io-gles-master.repo  = "io-gles";
   inputs.src-io-gles-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
