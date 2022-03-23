@@ -1,8 +1,0 @@
-{
-  "desc": "Obsolete - please use gles instead!",
-  "license": "MIT",
-  "name": "io-gles",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/nimious/io-gles.git",
-  "version": "master"
-}
