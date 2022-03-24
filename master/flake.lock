@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-io-gles-master": "src-io-gles-master"
+        "src-gles-master": "src-gles-master"
       }
     },
-    "src-io-gles-master": {
+    "src-gles-master": {
       "flake": false,
       "locked": {
         "lastModified": 1454176391,
