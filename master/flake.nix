@@ -11,7 +11,6 @@
   inputs.src-gles-master.ref   = "refs/heads/master";
   inputs.src-gles-master.owner = "nimious";
   inputs.src-gles-master.repo  = "io-gles";
-  inputs.src-gles-master.dir   = "";
   inputs.src-gles-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
